@@ -14,26 +14,19 @@
 <hr>
 <h2>🛠 Skills</h2>
 <div>
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="javascript logo"  />
-    <img width="12"/>
-    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="html5 logo">
-    <img width="12"/>
-    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="css3 logo">
-    <img width="12"/>
-    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="40" alt="git logo">
-    <img width="12">
-    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height="40" alt="github logo">
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=FFFFFF" height="40" alt="javascript logo"  />
+    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=FFFFFF" height="40" alt="html5 logo">
+    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=FFFFFF" height="40" alt="css3 logo">
+    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=FFFFFF" height="40" alt="git logo">
+    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" height="40" alt="github logo">
 </div>
 <hr>
 <h2></h2>
 <div>
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" alt="linkedin logo">
-    <img width="12">
-    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" height="40" alt="youtube logo">
-    <img width="12">
-    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" height="40" alt="x logo">
-    <img width="12">
-    <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" height="40" alt="discord logo">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=FFFFFF" height="40" alt="linkedin logo">
+    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FFFFFF" height="40" alt="youtube logo">
+    <img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" height="40" alt="x logo">
+    <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=FFFFFF" height="40" alt="discord logo">
 </div>
 <hr>
 <picture>
