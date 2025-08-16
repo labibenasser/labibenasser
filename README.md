@@ -14,23 +14,20 @@
 <hr>
 <h2>🛠 Skills</h2>
 <div>
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=FFFFFF" height="40" alt="javascript logo"  />
-    <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=FFFFFF" height="40" alt="html5 logo">
-    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=FFFFFF" height="40" alt="css3 logo">
-    <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=FFFFFF" height="40" alt="git logo">
-    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" height="40" alt="github logo">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=F7DF1E" width="40" alt="JavaScript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=E34F26" width="40" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=1572B6" width="40" alt="CSS3" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=F05032" width="40" alt="Git" /></a>
+    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" width="40" alt="GitHub" /></a>
 </div>
 <hr>
-<h2></h2>
+<h2>Scocial Media</h2>
 <div>
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=FFFFFF" height="40" alt="linkedin logo">
-    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FFFFFF" height="40" alt="youtube logo">
-    <img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" height="40" alt="x logo">
-    <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=FFFFFF" height="40" alt="discord logo">
+    <a href="https://linkedin.com/in/nasserlabibe"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="40" alt="LinkedIn" /></a>
+    <a href="https://youtube.com/@nasserlabibe"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FF0000" width="40" alt="YouTube" /></a>
+    <a href="https://x.com/nasserlabibe"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" width="40" alt="X" /></a>
+    <a href="https://discord.gg/YOURDISCORD"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=5865F2" width="40" alt="Discord" /></a>
 </div>
 <hr>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasser-labibe-dev/nasser-labibe-dev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasser-labibe-dev/nasser-labibe-dev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasser-labibe-dev/nasser-labibe-dev/output/pacman-contribution-graph.svg">
-</picture>
+<h2>Support:</h3>
+<a href="https://www.buymeacoffee.com/nasserlabibe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nasserlabibe" /></a>
