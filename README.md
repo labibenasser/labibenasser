@@ -26,7 +26,7 @@
     <a href="https://linkedin.com/in/nasserlabibe"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="40" alt="LinkedIn" /></a>
     <a href="https://youtube.com/@nasserlabibe"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FF0000" width="40" alt="YouTube" /></a>
     <a href="https://x.com/nasserlabibe"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" width="40" alt="X" /></a>
-    <a href="https://discord.gg/YOURDISCORD"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=5865F2" width="40" alt="Discord" /></a>
+    <a href="https://discord.gg/2ePeUZzzm8"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=5865F2" width="40" alt="Discord" /></a>
 </div>
 <hr>
 <h2>☕ Support Me</h3>
