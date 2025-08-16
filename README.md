@@ -21,7 +21,7 @@
     <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" width="40" alt="GitHub" /></a>
 </div>
 <hr>
-<h2>Scocial Media</h2>
+<h2>🌐 Social Media</h2>
 <div>
     <a href="https://linkedin.com/in/nasserlabibe"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="40" alt="LinkedIn" /></a>
     <a href="https://youtube.com/@nasserlabibe"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FF0000" width="40" alt="YouTube" /></a>
@@ -29,5 +29,5 @@
     <a href="https://discord.gg/YOURDISCORD"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=5865F2" width="40" alt="Discord" /></a>
 </div>
 <hr>
-<h2>Support:</h3>
+<h2>☕ Support Me</h3>
 <a href="https://www.buymeacoffee.com/nasserlabibe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nasserlabibe" /></a>
