@@ -5,9 +5,9 @@
 <h2>📄 About Me</h2>
 <ul>
     <li>🌍 Based in <strong>Kairouan</strong>, <strong>Tunisia</strong>.</li>
-    <li>🌐 Portfolio: <a href="https://nasserlabibe.netlify.app">nasserlabibe.com</a>.</li>
-    <li>📫 Contact: <a href="mailto:nasserlabibe@gmail.com">nasserlabibe@gmail.com</a>.</li>
-    <li>🛠️ Currently working on: <a href="https://nasserlabibe.netlify.app">My personal portfolio website</a>.</li>
+    <li>🌐 Portfolio: <a href="https://nasserlabibe.netlify.app" target="_blank">nasserlabibe.com</a>.</li>
+    <li>📫 Contact: <a href="mailto:nasserlabibe@gmail.com" target="_blank">nasserlabibe@gmail.com</a>.</li>
+    <li>🛠️ Currently working on: <a href="https://nasserlabibe.netlify.app" target="_blank">My personal portfolio website</a>.</li>
     <li>📚 Learning: Front-end frameworks like <strong>React</strong> and <strong>Next.js</strong>.</li>
     <li>🤝 Open to collaborating with UX/UI designers to bring ideas to life.</li>
 </ul>
@@ -23,15 +23,15 @@
 <hr>
 <h2>🌐 Social Media</h2>
 <div>
-    <a href="https://linkedin.com/in/nasserlabibe"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="50" alt="linkedin logo" /></a>
-    <a href="https://youtube.com/@nasserlabibe"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FF0000" width="50" alt="youTube logo" /></a>
-    <a href="https://x.com/nasserlabibe"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" width="50" alt="x logo" /></a>
-    <a href="https://discord.gg/2ePeUZzzm8"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=5865F2" width="50" alt="discord logo" /></a>
+    <a href="https://linkedin.com/in/nasserlabibe" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="50" alt="linkedin logo" /></a>
+    <a href="https://youtube.com/@nasserlabibe" target="_blank"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FF0000" width="50" alt="youTube logo" /></a>
+    <a href="https://x.com/nasserlabibe" target="_blank"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" width="50" alt="x logo" /></a>
+    <a href="https://discord.gg/2ePeUZzzm8" target="_blank"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=5865F2" width="50" alt="discord logo" /></a>
 </div>
 <hr>
 <h2>☕ Support Me</h3>
 <div>
-    <a href="https://www.buymeacoffee.com/nasserlabibe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bymeacoffee logo" /></a>
+    <a href="https://www.buymeacoffee.com/nasserlabibe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bymeacoffee logo"/></a>
     <img width="12"><img>
-    <a href="https://ko-fi.com/nasserlabibe"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi logo" /></a>
+    <a href="https://ko-fi.com/nasserlabibe" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi logo"/></a>
 </div>
