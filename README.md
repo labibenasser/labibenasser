@@ -18,7 +18,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=1572B6" width="50" alt="css3 logo" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=F7DF1E" width="50" alt="javascript logo" /></a>
     <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" width="50" alt="bootstrap logo"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"/></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="50" alt="tailwindcss"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=F05032" width="50" alt="git logo" /></a>
     <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" width="50" alt="github logo" /></a>
 </div>
