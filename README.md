@@ -26,6 +26,7 @@
 <h2>🌐 Social Media</h2>
 <div>
     <a href="https://linkedin.com/in/nasserlabibe" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="50" alt="linkedin logo" /></a>
+    <a href="https://github.com/labibenasser" target="_blank"><img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF" width="50" alt="github logo" /></a>
     <a href="https://youtube.com/@nasserlabibe" target="_blank"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=FF0000" width="50" alt="youTube logo" /></a>
     <a href="https://x.com/nasserlabibe" target="_blank"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" width="50" alt="x logo" /></a>
     <a href="https://discord.gg/2ePeUZzzm8" target="_blank"><img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=5865F2" width="50" alt="discord logo" /></a>
