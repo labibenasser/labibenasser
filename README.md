@@ -1,5 +1,5 @@
 <h1>Hi 👋 My name is Nasser Labibe</h1>
-<h2>Passionate Front-End Web Developer</h2>
+<h2>A Passionate Front-End Web Developer</h2>
 <p>I'm Nasser Labibe, a Front-End developer focused on crafting responsive, interactive, and visually appealing websites.<br>learning, improving, and aiming to deliver clean, fast, and engaging user experiences.</p>
 <hr>
 <h2>📄 About Me</h2>
